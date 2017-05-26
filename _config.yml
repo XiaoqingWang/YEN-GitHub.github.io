@@ -6,27 +6,12 @@ url: "http://yangenneng.cn/"
 
 # Delete the lines you don't need
 # about 5 elements are recomended
-github_username:  YEN-GitHub
-codepen_username: 
-facebook_username: 
-vk_username: 
-twitter_username: 
-google_plus_username: 
-linkedin_username: 
-vine_username:
-instagram_username:
-flickr_username:
-steam_username:
-soundcloud_username:
-stack_of_username:
-reddit_username:
-medium_username:
-tumblr_username:
-weibo_username: yen_xlwb
+github_username:YEN-GitHub
+weibo_username:yen_xlwb
 lastfm_username:
-blog_url: "/blog"
+blog_url:"/blog"
 email:1274491995@qq.com
-public_key_url: "http://yangenneng.cn/"
+public_key_url:"http://yangenneng.cn/"
 
 
 avatar: yes
