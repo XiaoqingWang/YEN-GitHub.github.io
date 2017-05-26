@@ -7,11 +7,10 @@ url: "http://yangenneng.cn/"
 # Delete the lines you don't need
 # about 5 elements are recomended
 github_username: YEN-GitHub
-weibo_username:yen_xlwb
-lastfm_username:
-blog_url:"/blog"
-email:1274491995@qq.com
-public_key_url:"http://yangenneng.cn/"
+weibo_username: yen_xlwb
+blog_url: "/blog"
+email: 1274491995@qq.com
+public_key_url: "http://yangenneng.cn/"
 
 
 avatar: yes
