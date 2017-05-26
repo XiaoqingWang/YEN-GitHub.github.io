@@ -1,7 +1,7 @@
 # Site settings
 name: YangEnneng
-description: "Nifty little description"
-url: ""
+description: "如果真的相信什么，就要用尽全力去让它发生。"
+url: "http://yangenneng.cn/"
 
 
 # Delete the lines you don't need
@@ -30,7 +30,7 @@ public_key_url: "http://yangenneng.cn/"
 
 
 avatar: yes
-#avatar_img_path: "imgs/avatar.jpg""
+# avatar_img_path: "imgs/avatar.jpg""
 # You can link to your GitHub image. That way it will get updated
 # automatically whenever you change your GitHub profile picture
 avatar_img_path: "https://avatars1.githubusercontent.com/u/19388092?v=3&s=460"
@@ -38,12 +38,12 @@ avatar_img_path: "https://avatars1.githubusercontent.com/u/19388092?v=3&s=460"
 
 front_img: yes
 front_img_path: "imgs/background.jpg"
-#front_img_path: "https://external.url/image.jpg"
+# front_img_path: "https://external.url/image.jpg"
 
 
 favicon_img: yes
 favicon_img_path: "imgs/favicon.ico"
-#favicon_img_path: "https://external.url/favicon.ico"
+# favicon_img_path: "https://external.url/favicon.ico"
 
 
 # Build settings
