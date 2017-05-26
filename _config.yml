@@ -1,18 +1,18 @@
 # Site settings
-title: Jekyll-Uno
+title: YangEnneng
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
+url: 'http://yangenneng.cn/jekyll-uno'
 baseurl: '/jekyll-uno/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'YangEnneng'
+  email: 1274491995@qq.com
+  twitter_username: YangEnneng
+  facebook_username: YangEnneng
+  github_username:  YEN-GitHub
+  linkedin_username:  YangEnneng
 
 defaults:
   -
