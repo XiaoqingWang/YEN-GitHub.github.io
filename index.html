@@ -35,7 +35,9 @@ permalink: /
                     <li><a class="fa fa-2x fa-github" href="https://github.com/{{ site.github_username }}"><span class="description">GitHub</span></a></li>
                     {% endif %}
 
-                   
+                    {% if site.csdn_username %}
+                    <li><a class="fa fa-2x fa-csdn" href="https://blog.csdn.net/{{ site.csdn_username }}"><span class="description">CSDN</span></a></li>
+                    {% endif %}
 
                     {% if site.weibo_username %}
                     <li><a class="fa fa-2x fa-weibo" href="https://weibo.com/u/{{ site.weibo_username }}"><span class="description">微博</span></a></li>
