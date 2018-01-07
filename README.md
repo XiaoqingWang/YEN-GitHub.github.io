@@ -1,5 +1,5 @@
 # YEN的个人网站
-## 访问域名: http://www.yangenneng.cn/
+## 访问域名: http://yangenneng.cn/
 
 #### 首先感谢Jekyll Themes提供的那么多炫酷的主题。
 #### 我这里选择的主题是：front-cover，喜欢的朋友也可直接fork我的一份过去改为自己的信息。或者到这里下载：http://jekyllthemes.org/page4/
@@ -16,4 +16,3 @@
 
 #### 需要说明的是：index.html中图标的样式是来自：http://fontawesome.io/icons/  可自行在上面选择合适的图标过来修改
 
-#### 简略说明完毕，之后会详细补充，再次感谢Jekyll Themes
